@@ -7,33 +7,6 @@ Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Sour
 </p>
 <br>
 
-## About me
-
-Hi, I am Amit Shekhar, Co-Founder @ [Outcome School](https://outcomeschool.com) • IIT 2010-14 • I have taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies. I am passionate about sharing knowledge through open-source, blogs, and videos.
-
-You can connect with me on:
-
-- [Twitter](https://twitter.com/amitiitbhu)
-- [YouTube](https://www.youtube.com/@amitshekhar)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-## [Outcome School Blog](https://outcomeschool.com/blog) - High-quality content to learn Android concepts.
-
-## We will build and learn the following for the App like Uber and Lyft:
-* Create Rider Android Clone App
-* Fetch and show nearby cabs on Google Map
-* Set Pickup and drop location
-* Book a cab
-* Fetch and show driver current location
-* Show pickup and trip path on Map with Animation
-* Cab Arrival for a pickup like Uber
-* On-going trip UI
-* Trip End
-* Animation like Uber App for Moving Car
-* Just to make it simple. This project uses the basic MVP Architecture for building the Uber and Lyft clone
-* We have simulated the WebSocket API for you 
-
 ## We have simulated the backend environment for you to get the real-work like experience.
 
 ## Screenshots from this project
@@ -229,10 +202,4 @@ A WebSocket is a persistent connection between a client and server. WebSockets p
     }
     ```  
 
-### Find this project useful ? :heart:
 
-* Support it by clicking the :star: button on the upper right of this page. :v:
-
-### License
-```
-```
